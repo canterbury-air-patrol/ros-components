@@ -1,0 +1,4 @@
+uint32 max_distance
+---
+bool success
+
